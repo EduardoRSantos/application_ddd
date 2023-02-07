@@ -1,5 +1,4 @@
-from DDD import DDD
-
+from ddd import DDD
 class RepositoryDDD:
 
     def __init__(self) -> None:

@@ -1,6 +1,6 @@
-from DDD import DDD
-from RepositoryDDD import RepositoryDDD
-from UserInterface import UserInterface
+from ddd import DDD
+from repository_ddd import RepositoryDDD
+from user_interface import UserInterface
 
 reposiutory_ddd = RepositoryDDD()
 ui = UserInterface(reposiutory_ddd)
